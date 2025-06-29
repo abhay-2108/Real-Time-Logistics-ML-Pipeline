@@ -10,6 +10,16 @@ This project demonstrates a real-time logistics monitoring and predictive mainte
 - **Anomaly detection** and **risk classification** using ML models
 - **Predictive maintenance** with LSTM
 - **Live dashboard** for monitoring alerts, analytics, and raw data (Streamlit)
+  
+![real time dashboard 1](https://github.com/user-attachments/assets/47421df0-42f8-4e0f-9eeb-6905e2492c78)
+
+![real time dashboard 2](https://github.com/user-attachments/assets/0d97013b-3b89-4c6a-b290-e73c4afbfd63)
+
+![real time dashboard 3](https://github.com/user-attachments/assets/34d0896c-bfc8-4cc1-b624-7d7edf51a9a9)
+
+![real time dashboard 4](https://github.com/user-attachments/assets/989c89bd-fbf3-4b1f-b838-b4281c59a6d0)
+
+![real time dashboard 5](https://github.com/user-attachments/assets/4be11fef-d271-411c-9914-9bb0f2a6870b)
 
 ---
 
@@ -96,5 +106,3 @@ Open the Streamlit URL in your browser to view the dashboard.
 [MIT](LICENSE) (or your preferred license)
 
 ---
-
-Let me know if you want a section for **model training**, **troubleshooting**, or anything else!
